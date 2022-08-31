@@ -1,10 +1,14 @@
-To start the project you need to run the back-end and front-end separately <br>
+# Using Web 3.0 methodologies, Solidity and Metamask
 
-# Sample Hardhat Project (back-end)
+```shell
+To start the project you need to run the back-end and front-end separately <br>
+```
+
+# Sample Hardhat Project 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+Try running some of the following tasks in the ./solidity directory:
 
 ```shell
 npx hardhat help
@@ -14,7 +18,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-# Start the project front-end
+# Start the project front-end - Simple React App bootstraped with vite
 
 ```shell
 npm run dev
